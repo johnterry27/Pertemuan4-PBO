@@ -56,7 +56,7 @@ public class Mavenproject1 {
                 }
             }
 
-            // Menampilkan ringkasan hasil analisis data
+            // Menampilkan ringkasan hasil dari analisis data
             System.out.println("============================================================");
             System.out.println("Dataset berhasil dibaca! Jumlah produk: " + productList.size());
             System.out.println("============================================================");
@@ -87,7 +87,7 @@ public class Mavenproject1 {
             // Menampilkan contoh 5 produk pertama dari daftar produk
             System.out.println("Contoh 5 Produk Dari Daftar:");
             productList.stream().limit(5).forEach(System.out::println);
-            System.out.println("============================================================");
+               System.out.println("============================================================");
 
         } catch (IOException | URISyntaxException e) {
             e.printStackTrace(); // Menampilkan error jika terjadi kesalahan dalam membaca file
