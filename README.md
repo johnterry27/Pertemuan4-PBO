@@ -1,4 +1,4 @@
-#  Persiapan Pertemuan 4 - PBO (Collections Framework)
+#  Persiapan Pertemuan 4 - Tugas Kelompok PBO (Collections Framework)
 ## Kelompok: 
 **Anggota:**
 - John Terry (23100010)
